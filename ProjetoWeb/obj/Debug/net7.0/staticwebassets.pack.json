@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Kennedy\\C#\\projetos\\ProjetoWeb\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ProjetoWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ProjetoWeb.props",
+      "PackagePath": "build\\ProjetoWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjetoWeb.props",
+      "PackagePath": "buildMultiTargeting\\ProjetoWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ProjetoWeb.props",
+      "PackagePath": "buildTransitive\\ProjetoWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

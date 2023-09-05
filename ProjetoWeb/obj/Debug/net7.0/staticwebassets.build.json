@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Z8zd2TkCqFK/ll9z9tSRN8DXNMgEJ9nTn3Tgw3kJM10=",
+  "Source": "ProjetoWeb",
+  "BasePath": "_content/ProjetoWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProjetoWeb\\wwwroot",
+      "Source": "ProjetoWeb",
+      "ContentRoot": "C:\\Kennedy\\C#\\projetos\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Kennedy\\C#\\projetos\\ProjetoWeb\\wwwroot\\produtos.html",
+      "SourceId": "ProjetoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Kennedy\\C#\\projetos\\ProjetoWeb\\wwwroot\\",
+      "BasePath": "_content/ProjetoWeb",
+      "RelativePath": "produtos.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\produtos.html"
+    }
+  ]
+}

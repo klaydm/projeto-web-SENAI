@@ -1,0 +1,7 @@
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\ProjetoWeb.exe
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\appsettings.json
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\ProjetoWeb.dll
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\ProjetoWeb.deps.json
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\ProjetoWeb.runtimeconfig.json
+C:\Kennedy\C#\projetos\ProjetoWeb\bin\Release\net7.0\publish\ProjetoWeb.pdb
